@@ -1,2 +1,2 @@
-# bharatitern
-here is the task given by the BharatItern ..
+# codsoft
+here is the task given by the codsoft..
